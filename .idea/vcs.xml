@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/formtimkiemgoogle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thuchanhtable" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/wf-hello" vcs="Git" />
   </component>
 </project>
